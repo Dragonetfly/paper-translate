@@ -1,0 +1,4 @@
+interface:
+  display_name: "paper-translate"
+  short_description: "英文论文翻译为中文，保留版式与专业术语，输出英文左中文右的对照 PDF"
+  default_prompt: "使用 $paper-translate 将这篇英文论文翻译成中文，保留原排版，英文在左、中文在右；图表内容、公式和参考文献保留原文，翻译图表标题及完整图注，输出 PDF。"
